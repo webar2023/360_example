@@ -15,8 +15,8 @@ HotspotPanoramaOverlayTextImage_DDA2B726_C1A9_4047_41C3_8EFA84F2EA3F.text = JAN
 HotspotPanoramaOverlayTextImage_DC59740B_C199_404D_41E7_DAA54ABAF1E9.text = MAR
 
 ### Tooltip
-sprite_D91BCFF1_D72C_6478_41DD_7E95BDC31791.toolTip = Calendar
-sprite_D8EC457B_D72C_E468_41D0_6BDABE5D09D2.toolTip = Greetings
+sprite_C29A5004_D764_5B98_41D6_9BFAEB70ABAD.toolTip = Calendar
+sprite_C0774F75_D764_6478_41E5_FC298E7837D3.toolTip = Greetings
 
 ## Media
 
@@ -37,7 +37,7 @@ panorama_CE6CBAE9_C199_41CA_41D2_0038E2799ECC.label = Depositphotos_340228552_XL
 panorama_CE6DDAEC_C199_41CB_41DB_EED0C03322D7.label = Depositphotos_73812883_XL
 panorama_CE6DC11C_C199_404A_41E7_110D7AF9D2B9.label = Depositphotos_73874407_XL
 panorama_CE6CA1F0_C199_43DB_4177_85D1701C1A5E.label = Depositphotos_9730225_XL
-model_DBB2C504_D724_A598_41AE_F6E741FFE35C.label = logoPlusPerkenalan6
+model_C17DC2BD_D76C_5CE8_41EA_814D9B6083D5.label = logoPlusPerkenalan7
 
 ## Skin
 
