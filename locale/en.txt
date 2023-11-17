@@ -1,18 +1,6 @@
 #: locale=en
 
-## Action
-
-### URL
-LinkBehaviour_DDAD3A06_C2B9_C047_41E6_8BF6B596ADD4.source = https://editor.assemblrworld.com/Viewer/-m72LQ5RtEkAGJJ8wYuy?playAR=true&distinctId=$device:18bc20fb00a57b-0031b3ee36077c-b457659-48120-18bc20fb00a57b
-
 ## Hotspot
-
-### Text
-HotspotPanoramaOverlayTextImage_DF66DE1C_C1A7_404B_41E5_19A683A0E6BC.text = APR
-HotspotPanoramaOverlayTextImage_DC37AF63_C1A9_40FD_41E6_00C345AE1270.text = FEB
-HotspotPanoramaOverlayTextImage_DF201E63_C2B8_C0FD_41E7_8D25946CE0F6.text = Happy new year
-HotspotPanoramaOverlayTextImage_DDA2B726_C1A9_4047_41C3_8EFA84F2EA3F.text = JAN
-HotspotPanoramaOverlayTextImage_DC59740B_C199_404D_41E7_DAA54ABAF1E9.text = MAR
 
 ### Tooltip
 sprite_C29A5004_D764_5B98_41D6_9BFAEB70ABAD.toolTip = Calendar
@@ -21,14 +9,8 @@ sprite_C0774F75_D764_6478_41E5_FC298E7837D3.toolTip = Greetings
 ## Media
 
 ### Audio
+audiores_CBBFAC74_DD91_CFE8_41C3_53CF48412EDB.mp3Url = media/audio_C863DA43_DD92_CB2F_41C7_930F4AA7A822_en.mp3
 audiores_D2626E87_C1F9_4045_41D0_FCEDA2A75D9C.mp3Url = media/audio_D02DA121_C1E9_407D_41C2_2C97E4390ACA_en.mp3
-
-### Image
-imlevel_DFBD4EF2_C2BB_41DF_41DE_7407F768DFD2.url = media/panorama_CE6CA1F0_C199_43DB_4177_85D1701C1A5E_HS_d4aeezbx_en.png
-imlevel_F5EC3391_D7BB_0338_41DA_934DC2FAE71E.url = media/panorama_CE6CBAE9_C199_41CA_41D2_0038E2799ECC_HS_8v8yoeii_en.png
-imlevel_F423A3E9_D7BB_02E8_41E6_4D773F19B5E8.url = media/panorama_CE6CBAE9_C199_41CA_41D2_0038E2799ECC_HS_enrlwdhg_en.png
-imlevel_F5B4F35C_D7BB_0328_41E6_79BD1D0DC777.url = media/panorama_CE6CBAE9_C199_41CA_41D2_0038E2799ECC_HS_ma746jh8_en.png
-imlevel_F5F303B8_D7BB_0369_41E2_F7BB231AF636.url = media/panorama_CE6CBAE9_C199_41CA_41D2_0038E2799ECC_HS_z3a8n27i_en.png
 
 ### Title
 panorama_CE6C28DB_C199_C1CD_41E3_7112843C4EB9.label = Depositphotos_235300706_XL
@@ -36,7 +18,6 @@ panorama_CE68A725_C199_C045_41D2_F398839A5BD4.label = Depositphotos_284966864_XL
 panorama_CE6CBAE9_C199_41CA_41D2_0038E2799ECC.label = Depositphotos_340228552_XL
 panorama_CE6DDAEC_C199_41CB_41DB_EED0C03322D7.label = Depositphotos_73812883_XL
 panorama_CE6DC11C_C199_404A_41E7_110D7AF9D2B9.label = Depositphotos_73874407_XL
-panorama_CE6CA1F0_C199_43DB_4177_85D1701C1A5E.label = Depositphotos_9730225_XL
 model_C17DC2BD_D76C_5CE8_41EA_814D9B6083D5.label = logoPlusPerkenalan7
 
 ## Skin
@@ -61,7 +42,7 @@ Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text = Law Firm
 
 ### Multiline Text
 HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>HHP Law Firm</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Pacific Century Place, Level 35</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Sudirman Central Business District Lot 10</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Jl. Jendral Sudirman Kav 52-53</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Jakarta 12190, Indonesia</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tel: +62 21 2960 8888</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Fax: +62 21 2960 8999</I></SPAN></SPAN></DIV></div>
-HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>HHP Law Firm</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Pacific Century Place, Level 35</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Sudirman Central Business District Lot 10</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Jl. Jendral Sudirman Kav 52-53</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Jakarta 12190, Indonesia</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:7px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tel: +62 21 2960 8888</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.999999999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Fax: +62 21 2960 8999</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>HHP Law Firm</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Pacific Century Place, Level 35</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Sudirman Central Business District Lot 10</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Jl. Jendral Sudirman Kav 52-53</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Jakarta 12190, Indonesia</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:7px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tel: +62 21 2960 8888</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Fax: +62 21 2960 8999</I></SPAN></SPAN></DIV></div>
 
 ## Tour
 
