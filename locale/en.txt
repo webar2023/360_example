@@ -1,6 +1,14 @@
 #: locale=en
 
+## Action
+
+### URL
+LinkBehaviour_CA2476C2_DD98_A2A7_41DC_1C1BA9307418.source = https://editor.assemblrworld.com/Viewer/-m72LQ5RtEkAGJJ8wYuy?playAR=true&distinctId=$device:18bd8f22a6a6b2-0b4bfbdda66629-b457659-48120-18bd8f22a6a6b2
+
 ## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_C8645C37_DD98_E5EC_41D9_03CC9B2A5E65.text = Happy New Year
 
 ### Tooltip
 sprite_C29A5004_D764_5B98_41D6_9BFAEB70ABAD.toolTip = Calendar
@@ -12,12 +20,19 @@ sprite_C0774F75_D764_6478_41E5_FC298E7837D3.toolTip = Greetings
 audiores_CBBFAC74_DD91_CFE8_41C3_53CF48412EDB.mp3Url = media/audio_C863DA43_DD92_CB2F_41C7_930F4AA7A822_en.mp3
 audiores_D2626E87_C1F9_4045_41D0_FCEDA2A75D9C.mp3Url = media/audio_D02DA121_C1E9_407D_41C2_2C97E4390ACA_en.mp3
 
+### Image
+imlevel_CA7CA48A_DD98_A6A4_41EB_608F771A16EA.url = media/panorama_C9529115_DD69_FFAC_41DC_BA1842D2051B_HS_v969bpy1_en.png
+
 ### Title
+panorama_C9B4E371_DDAB_E265_41C2_94D21F0895FD.label = Depositphotos_235300706_XL
 panorama_CE6C28DB_C199_C1CD_41E3_7112843C4EB9.label = Depositphotos_235300706_XL
 panorama_CE68A725_C199_C045_41D2_F398839A5BD4.label = Depositphotos_284966864_XL
+panorama_C88B4AF6_DDAB_E26F_41C5_34F73F1AF90E.label = Depositphotos_340228552_XL
 panorama_CE6CBAE9_C199_41CA_41D2_0038E2799ECC.label = Depositphotos_340228552_XL
+panorama_C9048C2D_DDA7_A5FC_41D6_7DEAF51A998D.label = Depositphotos_73812883_XL
 panorama_CE6DDAEC_C199_41CB_41DB_EED0C03322D7.label = Depositphotos_73812883_XL
 panorama_CE6DC11C_C199_404A_41E7_110D7AF9D2B9.label = Depositphotos_73874407_XL
+panorama_C9529115_DD69_FFAC_41DC_BA1842D2051B.label = Depositphotos_9730225_XL
 model_C17DC2BD_D76C_5CE8_41EA_814D9B6083D5.label = logoPlusPerkenalan7
 
 ## Skin
