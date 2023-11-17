@@ -34,6 +34,7 @@ panorama_CE6DDAEC_C199_41CB_41DB_EED0C03322D7.label = Depositphotos_73812883_XL
 panorama_CE6DC11C_C199_404A_41E7_110D7AF9D2B9.label = Depositphotos_73874407_XL
 panorama_C9529115_DD69_FFAC_41DC_BA1842D2051B.label = Depositphotos_9730225_XL
 model_C17DC2BD_D76C_5CE8_41EA_814D9B6083D5.label = logoPlusPerkenalan7
+model_C5F5DA8C_DDFB_62A3_41C3_5BC2EC595329.label = logoPlusPerkenalan8
 
 ## Skin
 
