@@ -4,7 +4,9 @@
 
 ### URL
 LinkBehaviour_CA2476C2_DD98_A2A7_41DC_1C1BA9307418.source = https://editor.assemblrworld.com/Viewer/-m72LQ5RtEkAGJJ8wYuy?playAR=true&distinctId=$device:18bd8f22a6a6b2-0b4bfbdda66629-b457659-48120-18bd8f22a6a6b2
+PopupWebFrameBehaviour_E0179EFF_F573_1239_41EC_B33E6FF9684B.url = https://online.fliphtml5.com/uxsnt/bcsy/#p=1
 PopupWebFrameBehaviour_E6E8895B_F53F_1E79_41D9_FFDDF1380F6D.url = https://online.fliphtml5.com/uxsnt/bcsy/#p=1
+PopupWebFrameBehaviour_E09CCBD9_F571_1279_41E3_18D2975DB7B5.url = https://online.fliphtml5.com/uxsnt/bcsy/#p=1
 
 ## Hotspot
 
@@ -44,6 +46,8 @@ model_C5F5DA8C_DDFB_62A3_41C3_5BC2EC595329.label = logoPlusPerkenalan8
 
 ### Title
 window_E697C95A_F53F_1E7B_41E9_FF71E2469ED1.title = CALENDAR
+window_E014EEFF_F573_1239_41E6_F0A823272734.title = CALENDAR
+window_E09D3BD9_F571_1279_41EA_7700278BA713.title = CALENDAR
 
 ## Skin
 
