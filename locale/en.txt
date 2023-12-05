@@ -4,12 +4,12 @@
 
 ### PDF
 PopupPDFBehaviour_27C26C56_380C_FB96_41AA_618F4C5DA412.url = files/SKB%203%20Menteri%20ttg%20Hari%20Libur%20Nasional%20&%20Cuti%20Bersa_230912_141416_en.pdf
-PopupPDFBehaviour_1AB96E6F_381F_57B6_41BC_CA290836CBE7.url = files/SKB%203%20Menteri%20ttg%20Hari%20Libur%20Nasional%20&%20Cuti%20Bersa_230912_141416_en.pdf
+PopupPDFBehaviour_1A83E28F_380D_2F76_41B9_59C28A517996.url = files/SKB%203%20Menteri%20ttg%20Hari%20Libur%20Nasional%20&%20Cuti%20Bersa_230912_141416_en.pdf
 PopupPDFBehaviour_18A14803_381B_DB6E_4174_F03F637B0647.url = files/SKB%203%20Menteri%20ttg%20Hari%20Libur%20Nasional%20&%20Cuti%20Bersa_230912_141416_en.pdf
 
 ### URL
 LinkBehaviour_CA2476C2_DD98_A2A7_41DC_1C1BA9307418.source = https://editor.assemblrworld.com/Viewer/-m72LQ5RtEkAGJJ8wYuy?playAR=true&distinctId=$device:18bd8f22a6a6b2-0b4bfbdda66629-b457659-48120-18bd8f22a6a6b2
-PopupWebFrameBehaviour_1ABB5E6C_381F_57BA_41A4_5D227B12B70B.url = https://online.fliphtml5.com/uxsnt/bcsy/#p=1
+PopupWebFrameBehaviour_1A8C928E_380D_2F79_41B2_E96EFEF10D50.url = https://online.fliphtml5.com/uxsnt/bcsy/#p=1
 PopupWebFrameBehaviour_27E8C7C1_380D_34EA_41B3_F18C6CE666FF.url = https://online.fliphtml5.com/uxsnt/bcsy/#p=1
 PopupWebFrameBehaviour_190C8132_3807_2DA9_41C0_9DCDE4F40FE9.url = https://online.fliphtml5.com/uxsnt/bcsy/#p=1
 
@@ -29,12 +29,12 @@ overlay_E7C4ED0E_F511_17DB_41C3_9A9DC314706C.url = https://online.fliphtml5.com/
 
 ### Image
 imlevel_CA7CA48A_DD98_A6A4_41EB_608F771A16EA.url = media/panorama_C9529115_DD69_FFAC_41DC_BA1842D2051B_HS_v969bpy1_en.png
-imlevel_19966605_381F_576A_41B1_B82730EFCC53.url = media/zoomImage_1A2891FE_381D_6C99_41A3_8C02B2323509_en_0_0.png
-imlevel_19916605_381F_576A_419F_BD4B387AF2BB.url = media/zoomImage_1A2891FE_381D_6C99_41A3_8C02B2323509_en_0_1.png
-imlevel_19ED550A_381F_5579_41A2_62BF40C6B622.url = media/zoomImage_1AB92E71_381F_57AA_41C6_373F9785AFE8_en_0_0.png
-imlevel_19ED450A_381F_5579_41A8_0322D86F73AA.url = media/zoomImage_1AB92E71_381F_57AA_41C6_373F9785AFE8_en_0_1.png
-imlevel_19EE44F7_381F_5496_41BF_66C3A6F7FB53.url = media/zoomImage_27ED2C66_380B_3BB6_41C0_7EEE7838EA33_en_0_0.png
-imlevel_19EEB4F7_381F_5496_415E_F3120C9EA456.url = media/zoomImage_27ED2C66_380B_3BB6_41C0_7EEE7838EA33_en_0_1.png
+imlevel_19BFAD32_380D_D5AE_41B2_B75607A2A6E7.url = media/zoomImage_1A2891FE_381D_6C99_41A3_8C02B2323509_en_0_0.png
+imlevel_19BFAD32_380D_D5AE_41B2_B75607A2A6E7.url = media/zoomImage_1A2891FE_381D_6C99_41A3_8C02B2323509_en_0_0.png
+imlevel_19BE5D32_380D_D5AE_41C8_773618807C5C.url = media/zoomImage_1A2891FE_381D_6C99_41A3_8C02B2323509_en_0_1.png
+imlevel_19BE5D32_380D_D5AE_41C8_773618807C5C.url = media/zoomImage_1A2891FE_381D_6C99_41A3_8C02B2323509_en_0_1.png
+imlevel_19BA1BE6_380D_DCA9_41A3_5887A52D3881.url = media/zoomImage_27ED2C66_380B_3BB6_41C0_7EEE7838EA33_en_0_0.png
+imlevel_19BA0BE6_380D_DCA9_41A3_F4C6901BF7ED.url = media/zoomImage_27ED2C66_380B_3BB6_41C0_7EEE7838EA33_en_0_1.png
 
 ### Popup Image
 
@@ -54,9 +54,9 @@ model_2346C919_387F_3D9B_41C3_8950A6173927.label = tiga tombol3
 ## Popup
 
 ### Title
-window_1AB9BE6F_381F_57B6_41C5_750D2AFB08D2.title = Back to Home
+window_1A8DF290_380D_2F6A_41B3_EDF91DC021E5.title = Back to Home
 window_27CD8C56_380C_FB96_41BF_4CBB8DF92456.title = Back to Home
-window_1ABBAE6C_381F_57BA_41C5_94576318D712.title = Back to Home
+window_1A83728E_380D_2F79_41C3_8D7E2508E744.title = Back to Home
 window_27D617C1_380D_34EA_41CA_7D433A4BEC2C.title = Back to Home
 window_190E5132_3807_2DA9_41BE_50A71F53D525.title = Back to Home
 window_18BFA802_381B_DB6E_41C5_2B940A6B6FF8.title = Back to Home
